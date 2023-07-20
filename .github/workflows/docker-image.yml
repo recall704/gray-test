@@ -1,5 +1,6 @@
 name: Docker Image CI
 env:
+  # image name, you need change this name if you copy it
   IMAGE_NAME: gray-test
 
 on:
